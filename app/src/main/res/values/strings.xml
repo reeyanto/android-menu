@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Android Menu</string>
+    <string name="favourite">Favourite</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="greeting">Greeting</string>
+    <string name="exit">Exit</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="context_actionbar_pertama">Context Actionbar Pertama</string>
+    <string name="context_actionbar_kedua">Context actionbar kedua</string>
+    <string name="click_for_popup">Click for Popup!</string>
+    <string name="popup_greetings">Popup greetings</string>
+    <string name="popup_exit">Popup Exit</string>
+</resources>

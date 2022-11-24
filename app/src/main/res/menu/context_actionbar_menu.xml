@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_context_actionbar_pertama"
+        android:icon="@drawable/ic_settings"
+        android:title="@string/context_actionbar_pertama"/>
+    <item
+        android:id="@+id/menu_context_actionbar_kedua"
+        android:icon="@drawable/ic_share"
+        android:title="@string/context_actionbar_kedua"/>
+</menu>

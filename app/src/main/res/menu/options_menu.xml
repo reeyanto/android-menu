@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/menu_options_favourite"
+        android:icon="@drawable/ic_favourite"
+        app:showAsAction="ifRoom|collapseActionView"
+        app:actionViewClass="android.widget.SearchView"
+        android:title="@string/favourite"/>
+
+    <item android:id="@+id/menu_options_settings"
+        android:icon="@drawable/ic_settings"
+        app:showAsAction="ifRoom"
+        android:title="@string/settings"/>
+
+    <item android:id="@+id/menu_options_about"
+        android:icon="@drawable/ic_about"
+        app:showAsAction="withText"
+        android:title="@string/about"/>
+</menu>
